@@ -33,4 +33,5 @@ UNIAPP项目，测试原生插件是否能跑起来
     }
     ...
     ...
-    
+    具体信息请到官网api文档中查看：
+    https://nativesupport.dcloud.net.cn/NativePlugin/course/android?id=%e6%8f%92%e4%bb%b6%e7%bc%96%e5%86%99%e5%91%bd%e5%90%8d%e8%a7%84%e8%8c%83
