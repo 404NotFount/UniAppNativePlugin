@@ -44,6 +44,8 @@
     }
 </script>
 
+
+
 <style>
 	.content {
 		display: flex;
